@@ -19,7 +19,7 @@ const Page = () => {
 
         {/* Documentation Button */}
         <a
-          href="https://drive.google.com/file/d/1RFxEnccf704Uue5t5aQzGSdasdKODBwY/view?usp=sharing"
+          href="https://docs.google.com/document/d/10go-aLKa-gHQBgpNmkiPeEVtPacafDUiNyL9N7om0-E/edit?tab=t.0"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center justify-center gap-2 bg-white shadow-md hover:shadow-xl transition-shadow rounded-lg px-6 py-4 text-gray-800 font-medium hover:bg-gray-50"
